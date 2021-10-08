@@ -1,0 +1,30 @@
+Metrics at time: 500 -- Number of processors: 4
+
+  Num processors currently in use: 2
+  Current queue size: 0
+  Overall average queue size: 0
+  Maximum jobs in queue: 0
+  Total time jobs in queue: 0 time units
+  Total number of jobs A arrived: 101
+  Total number of jobs B arrived: 50
+  Total number of jobs C arrived: 19
+  Total jobs completed: 168
+  Total time CPU(s) were processing: 894 time units
+  Total time CPU(s) were idle: 936 time units: 
+  Percentage of time processors in use: 48.8525%
+
+Metrics at time: 10000 -- Number of processors: 4
+
+  Num processors currently in use: 3
+  Current queue size: 0
+  Overall average queue size: 0.0004
+  Maximum jobs in queue: 2
+  Total time jobs in queue: 2 time units
+  Total number of jobs A arrived: 2002
+  Total number of jobs B arrived: 1004
+  Total number of jobs C arrived: 400
+  Total jobs completed: 3403
+  Total time CPU(s) were processing: 18506 time units
+  Total time CPU(s) were idle: 18088 time units: 
+  Percentage of time processors in use: 50.5711%
+
