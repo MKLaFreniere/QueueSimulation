@@ -1,5 +1,5 @@
 # QueueSimulation
-My final project for my second C++ course. This is probably the most complicated project I've done.
+My final project for my second C++ course. 
 
 To try and explain this project simply, there are a set of queues that Jobs will line up for and be processed. 
 Each Job is different in that it has different attributes when being processed. The idea of the project is to
